@@ -5,7 +5,7 @@
 - [Website Link](https://www.proshop.dk/)
 
 
-![screenshot](https://raw.githubusercontent.com/barc30881/proshop_mern/main/mern.png)
+![screenshot](https://raw.githubusercontent.com/barc30881/proshop_mern/main/proshop.png)
 
 ## Features
 
